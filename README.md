@@ -5,3 +5,8 @@ _Локально был настроен веб-сервер с помощью 
 _В форме, которая отправляла запрос был прописан атрибут action к порту веб-сервера :8888_
 
 _В данном реппозитории файл index.php находится в папке script_
+
+
+![Alt-текст](https://github.com/romanasti/testJA/blob/main/1.png "1")
+![Alt-текст](https://github.com/romanasti/testJA/blob/main/2.png "2")
+![Alt-текст](https://github.com/romanasti/testJA/blob/main/3.png "3")
