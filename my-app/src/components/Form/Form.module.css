@@ -1,0 +1,96 @@
+.form_cont{
+    margin: 385px 100px 0px 100px;
+}
+.form_cont img {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+}
+
+
+.but_cont {
+    padding: 5px 15px;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    background-color: rgba(18, 129, 136, 1);
+    border: 1px;
+    border-radius: 5px;
+    box-shadow: 0px 2px rgb(208, 200, 200);
+}
+.but_cont:hover {
+    background-color: rgb(21, 102, 108);
+}
+.but_cont:active {
+    background-color: rgb(21, 102, 108);
+    box-shadow: 0 1px rgb(156, 153, 153);
+    transform: translateY(2px);
+}
+
+.form_foot{
+    margin: 700px 100px 0px 100px;
+}
+.form_foot img {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+}
+
+.but_foot {
+    padding: 5px 15px;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    background-color: rgba(18, 129, 136, 1);
+    border: 1px;
+    border-radius: 5px;
+    box-shadow: 0px 2px rgb(208, 200, 200);
+}
+.but_foot:hover {
+    background-color: rgb(21, 102, 108);
+}
+.but_foot:active {
+    background-color: rgb(21, 102, 108);
+    box-shadow: 0 1px rgb(156, 153, 153);
+    transform: translateY(2px);
+}
+
+.form_head{
+    margin: 10px 100px 0px 100px;
+}
+.form_head img {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+}
+
+.but_head {
+    padding: 5px 15px;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    background-color: rgba(18, 129, 136, 1);
+    border: 1px;
+    border-radius: 5px;
+    box-shadow: 0px 2px rgb(208, 200, 200);
+}
+.but_head:hover {
+    background-color: rgb(21, 102, 108);
+}
+.but_head:active {
+    background-color: rgb(21, 102, 108);
+    box-shadow: 0 1px rgb(156, 153, 153);
+    transform: translateY(2px);
+}
